@@ -1,2 +1,4 @@
 # hello-world
-Start
+
+Hi, I'm hobbyist, maker and hacker.
+
